@@ -11,7 +11,7 @@ Mariana Galdino, Turma A, 3° Periodo
 ## Clone Project
 
 ```bash
-$ git clone git@github.com:bymar/tutoria5.git
+$ git clone https://github.com/bymar/tutoria5.git
 $ cd tutoria5
 ```
 
