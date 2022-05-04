@@ -15,13 +15,13 @@ $ git clone https://github.com/bymar/tutoria5.git
 $ cd tutoria5
 ```
 
-## Compilar, gerar o arquivo bin
+### Compilar, gerar o arquivo bin
 
 ```bash
 $ make
 ```
 
-## Roda o algoritmo
+### Roda o algoritmo
 
 ```bash
 $ make run
