@@ -21,7 +21,7 @@ $ cd tutoria5
 $ make
 ```
 
-### Roda o algoritmo
+## Roda o algoritmo
 
 ```bash
 $ make run
